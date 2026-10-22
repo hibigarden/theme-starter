@@ -54,7 +54,7 @@ Keep `hibi-addon.json`, the scheme files, `README.md`, and `LICENSE.txt` togethe
 
 Push your repository to a public HTTPS Git host such as GitHub. Anyone can then choose **Install from URL** in Hibi's Addon Manager and enter the repository URL, for example `https://github.com/you/your-theme`. You can also attach a ZIP file of the theme folder to a release and share its download link.
 
-To list your theme in Hibi garden, open a pull request in [hibigarden/addons-repository](https://github.com/hibigarden/addons-repository). When a maintainer accepts your theme, they sign the listed files, so people who install it from Hibi garden do not need to allow unsigned addons. Installing from your own repository URL stays unsigned. See [sideloading and sharing](https://docs.hibi.garden/#page=development%2Faddons%2Fsideloading.md) for package limits and updates.
+To list your theme in Hibi garden, open a pull request in [hibigarden/addons-repository](https://github.com/hibigarden/addons-repository). After a maintainer reviews and merges your listing, Hibi garden signs the listed files automatically, so you do not need a signing key. People who install your theme from Hibi garden do not need to allow unsigned addons. Installing it from your own repository URL stays unsigned and needs **Allow unsigned addons**. See [sideloading and sharing](https://docs.hibi.garden/#page=development%2Faddons%2Fsideloading.md) for package limits and updates.
 
 ## License
 
