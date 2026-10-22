@@ -1,0 +1,38 @@
+{
+  "id": "light",
+  "name": "Hello light",
+  "appearance": "light",
+  "author": "Hibi garden",
+  "license": {
+    "name": "MIT",
+    "text": "Released under the MIT License. See LICENSE.txt in this package."
+  },
+  "colors": {
+    "background": "#fbfaf7",
+    "surface": "#f2efe8",
+    "ink": "#22201c",
+    "muted": "#66615a",
+    "accent": "#9a4a1f",
+    "border": "#e2ddd2",
+    "sidebar": "#f5f2ec",
+    "hover": "#ebe6dc",
+    "active": "#e4dccd",
+    "selection": "#f0d9c6",
+    "selection-ink": "#22201c",
+    "caret": "#9a4a1f",
+    "code-background": "#f2efe8",
+    "code-ink": "#3b3732",
+    "syntax-heading": "#22201c",
+    "syntax-link": "#9a4a1f",
+    "syntax-code": "#6b4e2e",
+    "syntax-quote": "#66615a",
+    "syntax-keyword": "#8a3a6a",
+    "syntax-string": "#4f6b2a",
+    "syntax-number": "#9a5b14",
+    "syntax-comment": "#8a847a",
+    "status-success": "#3f7a3a",
+    "status-warning": "#9a6a10",
+    "status-danger": "#b0372b",
+    "status-info": "#2f6390"
+  }
+}

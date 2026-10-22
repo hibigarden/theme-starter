@@ -1,0 +1,38 @@
+{
+  "id": "dark",
+  "name": "Hello dark",
+  "appearance": "dark",
+  "author": "Hibi garden",
+  "license": {
+    "name": "MIT",
+    "text": "Released under the MIT License. See LICENSE.txt in this package."
+  },
+  "colors": {
+    "background": "#1c1b19",
+    "surface": "#262421",
+    "ink": "#ece7de",
+    "muted": "#a39d92",
+    "accent": "#e3a46e",
+    "border": "#3a3732",
+    "sidebar": "#181715",
+    "hover": "#2e2b27",
+    "active": "#38332c",
+    "selection": "#4a3527",
+    "selection-ink": "#ece7de",
+    "caret": "#e3a46e",
+    "code-background": "#262421",
+    "code-ink": "#d8d2c8",
+    "syntax-heading": "#ece7de",
+    "syntax-link": "#e3a46e",
+    "syntax-code": "#d6b48a",
+    "syntax-quote": "#a39d92",
+    "syntax-keyword": "#d49ac0",
+    "syntax-string": "#a8c47e",
+    "syntax-number": "#e8b56a",
+    "syntax-comment": "#7d776d",
+    "status-success": "#8cc584",
+    "status-warning": "#e6c15f",
+    "status-danger": "#ef8a7c",
+    "status-info": "#8ab8e6"
+  }
+}
